@@ -11,7 +11,9 @@ The challenge introduced a new cybersecurity concept, tool, or attack technique 
 - Strengthened core cybersecurity fundamentals  
 - Gained hands-on experience with security tools and techniques  
 - Understood real-world application of cybersecurity concepts through guided labs  
-- Improved practical understanding beyond theoretical knowledge  
+- Improved practical understanding beyond theoretical knowledge
+- Developed consistency through daily hands-on cybersecurity practice
+
 
 ---
 
