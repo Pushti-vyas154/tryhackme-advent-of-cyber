@@ -43,3 +43,9 @@ I am a **Cybersecurity student** actively building practical skills and currentl
 
 🔗 **Platform:** TryHackMe  
 🔐 **Program:** Advent of Cyber
+
+## 📘 Additional Learning
+
+- Completed foundational cybersecurity training to strengthen core security concepts
+- Improved understanding of cybersecurity basics and security-oriented thinking
+- Focused on building strong fundamentals before moving to advanced topics
