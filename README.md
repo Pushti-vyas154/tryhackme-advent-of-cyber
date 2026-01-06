@@ -49,3 +49,8 @@ I am a **Cybersecurity student** actively building practical skills and currentl
 - Completed foundational cybersecurity training to strengthen core security concepts
 - Improved understanding of cybersecurity basics and security-oriented thinking
 - Focused on building strong fundamentals before moving to advanced topics
+
+## 🌐 IoT & Security Basics
+
+- **Internet of Things (IoT):** A network of physical devices that collect and exchange data over the internet.
+- **IoT Security:** Protecting connected devices and their communication from unauthorized access, attacks, and data breaches.
