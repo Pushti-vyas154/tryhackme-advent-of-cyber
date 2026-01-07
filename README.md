@@ -54,3 +54,10 @@ I am a **Cybersecurity student** actively building practical skills and currentl
 
 - **Internet of Things (IoT):** A network of physical devices that collect and exchange data over the internet.
 - **IoT Security:** Protecting connected devices and their communication from unauthorized access, attacks, and data breaches.
+
+## 🌍 Networking Concepts in Cybersecurity
+
+- **IP Address:** A unique identifier assigned to a device on a network to enable communication.
+- **Port:** A logical endpoint that allows multiple services to run on a single device.
+- **Protocol:** A set of rules that define how data is transmitted over a network (e.g., TCP/IP).
+
